@@ -1,1 +1,1 @@
-# Stepic
+# Stepic education
