@@ -4,31 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca3de201-5430-42f4-95fa-c19b60a9bbac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/StepicSeleniumWebDriver.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ca3de201-5430-42f4-95fa-c19b60a9bbac" name="Changes" comment="add homework">
       <change afterPath="$PROJECT_DIR$/bla.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/introSe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intro_se_1_6_step10-11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intro_se_1_6_step4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intro_se_1_6_step5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intro_se_1_6_step8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intro_se_1_6_step9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intro_se_2_1_step4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intro_se_2_1_step7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intro_se_2_2_step3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intro_se_2_2_step6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intro_se_2_2_step8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intro_se_2_3_step4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intro_se_2_3_step6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intro_se_2_4_step8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intro_se_1_6_step10-11.py" beforeDir="false" afterPath="$PROJECT_DIR$/introduction to Selenium/intro_se_1_6_step10-11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intro_se_1_6_step4.py" beforeDir="false" afterPath="$PROJECT_DIR$/introduction to Selenium/intro_se_1_6_step4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intro_se_1_6_step5.py" beforeDir="false" afterPath="$PROJECT_DIR$/introduction to Selenium/intro_se_1_6_step5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intro_se_1_6_step8.py" beforeDir="false" afterPath="$PROJECT_DIR$/introduction to Selenium/intro_se_1_6_step8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intro_se_1_6_step9.py" beforeDir="false" afterPath="$PROJECT_DIR$/introduction to Selenium/intro_se_1_6_step9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +27,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -73,7 +62,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Stepic__edu",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/User/PycharmProjects/Tenzor/StepicSeleniumWebDriver",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
@@ -93,7 +82,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/intro_se_2_2_step6.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\User\PycharmProjects\Tenzor\StepicSeleniumWebDriver\methods in Selenium\intro_se_2_2_step6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +104,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/intro_se_2_2_step8.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\User\PycharmProjects\Tenzor\StepicSeleniumWebDriver\methods in Selenium\intro_se_2_2_step8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +126,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/intro_se_2_3_step4.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\User\PycharmProjects\Tenzor\StepicSeleniumWebDriver\methods in Selenium\intro_se_2_3_step4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +148,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/intro_se_2_3_step6.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\User\PycharmProjects\Tenzor\StepicSeleniumWebDriver\methods in Selenium\intro_se_2_3_step6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,7 +170,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\User\PycharmProjects\Tenzor\StepicSeleniumWebDriver\intro_se_2_4_step8.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\User\PycharmProjects\Tenzor\StepicSeleniumWebDriver\methods in Selenium\intro_se_2_4_step8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -216,6 +205,19 @@
       <option name="presentableId" value="Default" />
       <updated>1735374780424</updated>
     </task>
+    <task id="LOCAL-00001" summary="add homework">
+      <option name="closed" value="true" />
+      <created>1735911292219</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735911292219</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="add homework" />
   </component>
 </project>
